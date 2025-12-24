@@ -88,7 +88,7 @@
 
 ---
 
-## 📊 GitHub Stats
+<!----## 📊 GitHub Stats
 
 <p align="center">
 
@@ -112,7 +112,7 @@
        height="170"/>
 
 </p>
-
+---->
 
 
 ---
