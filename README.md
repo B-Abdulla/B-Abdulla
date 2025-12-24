@@ -45,28 +45,24 @@
 
 ---
 
-<h2 align="center">🛠️ Technical Skills</h2>
+## 🛠️ Technical Skills
 
-<!-- Programming -->
-<h3 align="center">💻 Programming Languages</h3>
+### 💻 Programming Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,java,python" height="55"/>
 </p>
 
-<!-- Database -->
-<h3 align="center">🗄️ Database</h3>
+### 🗄️ Database
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql" height="55"/>
 </p>
 
-<!-- Web -->
-<h3 align="center">🌐 Web Technologies</h3>
+### 🌐 Web Technologies
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript" height="55"/>
 </p>
 
-<!-- Tools -->
-<h3 align="center">🧰 Tools & Platforms</h3>
+### 🧰 Tools & Platforms
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" height="55"/>
 </p>
