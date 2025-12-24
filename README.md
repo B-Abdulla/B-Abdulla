@@ -88,16 +88,16 @@
 
 ---
 
-<!----## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 <p align="center">
 
-  <!-- GitHub Stats -->
+ 
   <img 
        src="https://github-readme-stats.vercel.app/api?username=B-Abdulla&show_icons=true&theme=tokyonight&count_private=true" 
        height="170"/>
 
-  <!-- Streak -->
+ 
   <img 
        src="https://streak-stats.demolab.com?user=B-Abdulla&theme=tokyonight" 
        height="170"/>
@@ -106,13 +106,13 @@
 
 <p align="center">
 
-  <!-- Top Languages -->
+ 
   <img 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=B-Abdulla&layout=compact&theme=tokyonight" 
        height="170"/>
 
-</p>
----->
+</p> -->
+
 
 
 ---
