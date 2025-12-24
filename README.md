@@ -23,7 +23,7 @@
     <img src="https://img.icons8.com/color/512/whatsapp.png" height="50"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/bangiabdulla" target="_blank">
+  <a href="https://github.com/B-Abdulla" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="50"/>
   </a>
 </p>
@@ -89,12 +89,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bangiabdulla&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bangiabdulla&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=B-Abdulla&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=B-Abdulla&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bangiabdulla&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B-Abdulla&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 ---
