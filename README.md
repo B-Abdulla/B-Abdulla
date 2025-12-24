@@ -11,7 +11,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/bangi-abdulla-64458534a" target="_blank">
+  <a href="https://www.linkedin.com/in/bangi-abdulla-64458534a" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
   </a>
   &nbsp;&nbsp;
