@@ -90,15 +90,27 @@
 
 <p align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=B-Abdulla&show_icons=true&theme=tokyonight&cache_seconds=7200" height="170"/>
+  <!-- GitHub Stats -->
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=B-Abdulla&show_icons=true&theme=tokyonight&count_private=true" 
+       height="170"/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=B-Abdulla&theme=tokyonight" height="170"/>
+  <!-- Streak -->
+  <img 
+       src="https://streak-stats.demolab.com?user=B-Abdulla&theme=tokyonight" 
+       height="170"/>
 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B-Abdulla&layout=compact&theme=tokyonight" height="170"/>
+
+  <!-- Top Languages -->
+  <img 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=B-Abdulla&layout=compact&theme=tokyonight" 
+       height="170"/>
+
 </p>
+
 
 
 ---
