@@ -1,6 +1,6 @@
-# bangiabdulla<!-- Header -->
+<!-- Header -->
 <h1 align="center">👋 Hi, I'm Abdulla</h1>
-<h3 align="center">CSE Student | RGUKT RK VALLEY | </h3>
+<h3 align="center">Computer Science Student | RGUKT RK VALLEY </h3>
 
 <p align="center">
   🌱 Learning, coding, and growing every day.
