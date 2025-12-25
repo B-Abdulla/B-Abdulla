@@ -122,12 +122,14 @@
        src="https://github-readme-stats-sigma-five.vercel.app/api?username=B-Abdulla&show_icons=true&theme=tokyonight" 
        height="170"/>
 
-  <!-- Streak -->
-  <img 
-       src="https://streak-stats.demolab.com?user=B-Abdulla&theme=tokyonight" 
-       height="170"/>
-
 </p>
+
+  <!-- Streak -->
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=B-Abdulla&theme=tokyonight" height="170"/>
+</p>
+
 
 <p align="center">
 
