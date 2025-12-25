@@ -127,7 +127,7 @@
   <!-- Streak -->
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=B-Abdulla&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=B-Abdulla&theme=tokyonight" height="170"/>
 </p>
 
 
