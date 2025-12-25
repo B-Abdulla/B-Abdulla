@@ -64,7 +64,7 @@
 
 ### 🧰 Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="55"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,idea" height="55"/>
 </p>
 
 
