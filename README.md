@@ -76,7 +76,7 @@
 - 🎓 Currently pursuing **B.Tech in Computer Science & Engineering** at RGUKT RK Valley  
 - 🚀 Actively learning and exploring **new technologies** to enhance my skills  
 - 💻 Practicing **Data Structures & Algorithms** to strengthen problem-solving ability  
-- 🌐 Working on **Full Stack Development** to build real-world applications  
+- 🌐 Working on **Full Stack Development** and **Data Science** to build real-world applications  
 - 🤝 Always curious, motivated, and open to learning & collaboration  
 
 
@@ -129,7 +129,7 @@
 <!-- <p >
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=B-Abdulla&theme=tokyonight" height="170"/>
 </p> -->
-<p><img src="https://streak-stats.demolab.com?user=B-Abdulla&theme=tokyonight&hide_border=true"/></p>
+<p><img src="https://streak-stats.demolab.com?user=B-Abdulla&theme=tokyonight&cache_seconds=86400"/></p>
 
 
 
