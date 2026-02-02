@@ -61,7 +61,9 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript" height="55"/>
 </p>
-
+<p align="center">
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+</p>
 ### 🧰 Tools & Platforms
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,idea" height="55"/>
@@ -129,13 +131,9 @@
 <!-- <p >
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=B-Abdulla&theme=tokyonight" height="170"/>
 </p> -->
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=B-Abdulla&theme=tokyonight&hide_border=true" />
+<p align="center>
+   <img height="170" src="https://streak-stats.demolab.com?user=B-Abdulla&theme=tokyonight&hide_border=true"/>
 </p>
-
-
 
 
 <p align="center">
