@@ -59,11 +59,9 @@
 
 ### 🌐 Web Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript" height="55"/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs" height="55"/>
 </p>
-<p align="center">
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-</p>
+
 ### 🧰 Tools & Platforms
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,idea" height="55"/>
