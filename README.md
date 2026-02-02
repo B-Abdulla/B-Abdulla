@@ -129,7 +129,9 @@
 <!-- <p >
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=B-Abdulla&theme=tokyonight" height="170"/>
 </p> -->
-<p><img src="https://streak-stats.demolab.com?user=B-Abdulla&theme=tokyonight&cache_seconds=86400"/></p>
+<p>
+  <img src="https://streak-stats.demolab.com?user=B-Abdulla&theme=tokyonight" height="170"/>
+</p>
 
 
 
